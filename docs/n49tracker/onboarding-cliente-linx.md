@@ -18,19 +18,19 @@ No formulário, é possível visualizar o campo **“slug”**, que será utiliz
 
 A imagem abaixo representa os dados exigidos pelos Correios:
 
-* **Usuário master**: ID da empresa junto aos Correios, visível no sistema MeusCorreios.
+- **Usuário master**: ID da empresa junto aos Correios, visível no sistema MeusCorreios.
 
-* **Senha API Correios**: Geralmente está com o responsável pelo contrato ou no painel do e-commerce.
+- **Senha API Correios**: Geralmente está com o responsável pelo contrato ou no painel do e-commerce.
 
 ⚠️ **Atenção**: Não gere uma nova senha nos Correios, pois isso irá invalidar qualquer outro sistema que utilize a senha atual.
 
-* **Código administrativo, número do contrato e cartão de postagem**: Também disponíveis no MeusCorreios.
+- **Código administrativo, número do contrato e cartão de postagem**: Também disponíveis no MeusCorreios.
 
 ![Correios](./img/image11.png)
 
 ## Etapa 3: Embalagem
 
-Etapa simples, onde só irá cadastrar os dados de dimensão e tipos de uma caixa padrão da empresa, caso o cliente não queira colocar algo aqui, pode informar apenas 1 e todos os campos  
+Etapa simples, onde só irá cadastrar os dados de dimensão e tipos de uma caixa padrão da empresa, caso o cliente não queira colocar algo aqui, pode informar apenas 1 e todos os campos\
 ![Embalagem](./img/image2.png)
 
 ## **Etapa 4: E-mails**
@@ -39,6 +39,4 @@ Nessa etapa, é possível alterar a logo da empresa (caso o cliente deseje) e co
 
 ![E-mails](./img/image7.png)
 
-### 
-
-### 
+###
